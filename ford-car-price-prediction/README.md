@@ -73,7 +73,7 @@ ford-car-price-prediction/
 │
 ├── ford.csv                       # Dataset
 ├── Ford_Price_Prediction.ipynb    # EDA, preprocessing & model training notebook
-└── Car-price-prediction.md
+└── README.md
 ```
 
 ## 🚀 Future Improvements
